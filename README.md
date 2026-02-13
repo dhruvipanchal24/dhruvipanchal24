@@ -1,16 +1,48 @@
-## Hi there 👋
+# Hi, I'm Dhruvi Panchal 👋
 
-<!--
-**dhruvipanchal24/dhruvipanchal24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Aspiring Software Developer  
+🐍 Python & Django Enthusiast  
+🌐 Web Development Learner  
 
-Here are some ideas to get you started:
+I am passionate about building practical applications and continuously improving my programming skills.  
+Currently focused on mastering Python, Data Structures & Algorithms, and Web Development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+
+- 📚 Learning: Python, Django, JavaScript  
+- 🧠 Exploring: Data Structures & Algorithms  
+- 🛠️ Interested in: Web Development & Backend Development  
+- 🎯 Goal: Becoming a Skilled Software Developer  
+
+---
+
+## 🔧 Technologies & Skills
+
+- Python  
+- HTML / CSS  
+- JavaScript  
+- Django (Learning)  
+- Problem Solving  
+
+---
+
+## 📌 Projects
+
+- 🌦️ Weather App (HTML, CSS, JavaScript)  
+- 🚀 More projects coming soon...
+
+---
+
+## 📈 Currently Improving
+
+- Data Structures & Algorithms  
+- Advanced Python  
+- Django Development  
+
+---
+
+## 📫 Connect With Me
+
+- GitHub: https://github.com/YOUR-USERNAME
